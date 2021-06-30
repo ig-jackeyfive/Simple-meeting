@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "添加会议室",
+  "usingComponents": {
+    "mx-date-picker": "/components/mx-datepicker/mx-datepicker"
+  }
+}

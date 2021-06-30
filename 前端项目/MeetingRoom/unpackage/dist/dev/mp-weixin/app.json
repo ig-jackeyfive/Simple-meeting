@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/update/update",
+    "pages/detail/detail",
+    "pages/sign/sign",
+    "pages/modify/modify",
+    "pages/appointment/appointment",
+    "pages/register/register",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "会议室预约",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "message": "/components/bobo-message/bobo-message",
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

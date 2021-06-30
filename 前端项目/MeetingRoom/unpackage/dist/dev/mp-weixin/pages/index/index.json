@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "会议室首页",
+  "usingComponents": {
+    "zy-search": "/components/zy-search/zy-search",
+    "mx-date-picker": "/components/mx-datepicker/mx-datepicker"
+  }
+}

@@ -1,0 +1,8 @@
+
+.form {
+	margin: 10rpx;
+}
+.foot {
+	text-align: center;
+}
+

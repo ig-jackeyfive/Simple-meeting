@@ -1,0 +1,62 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "touristappid",
+  "projectname": "MeetingRoom",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": 0,
+      "list": [
+        {
+          "name": "登录",
+          "id": 0,
+          "pathName": "pages/login/login"
+        },
+        {
+          "name": "添加会议",
+          "id": 1,
+          "pathName": "pages/appointment/appointment"
+        },
+        {
+          "name": "签到",
+          "id": 2,
+          "pathName": "pages/sign/sign"
+        },
+        {
+          "name": "编辑会议",
+          "id": 3,
+          "pathName": "pages/modify/modify"
+        },
+        {
+          "name": "会议详情",
+          "id": 4,
+          "pathName": "pages/detail/detail"
+        },
+        {
+          "name": "首页",
+          "id": 5,
+          "pathName": "pages/index/index"
+        }
+      ]
+    }
+  }
+}
