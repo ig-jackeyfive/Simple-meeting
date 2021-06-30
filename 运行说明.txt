@@ -1,0 +1,4 @@
+1，将huiyi.sql导入mysql建立数据库的表，注意数据库的名字要为huiyi
+1，将后端jar包用nohup java -jar BackEnd.jar > output.out &命令运行
+2，将前端文件夹解药到固定地址，用nginx配置root配置到该固定地址
+3，将nginx的proxy_pass配置到8080端口，监听80端口。
